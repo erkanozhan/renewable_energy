@@ -10,7 +10,7 @@ The dataset includes the following data:
 
 The dataset is provided in CSV format and includes the following columns:
 - `Year`: The year of the data.
-- `Renewable_Energy_Rate`: The total rate of electrical energy obtained from renewable sources (excluding hydroelectricity).
+- `Electricityproduction`: The total rate of electrical energy obtained from renewable sources (excluding hydroelectricity).
 
 ## Repository Structure
 /repo
