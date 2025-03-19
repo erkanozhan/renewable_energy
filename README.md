@@ -1,6 +1,6 @@
 # Türkiye Renewable Energy Data Analysis (1960–2023)
 
-This repository contains the dataset and analysis scripts for the study on the total rate of electrical energy obtained by Turkey from renewable energy sources (excluding hydroelectricity) between 1960 and 2023. The study is part of the Master of Science thesis of **Mehmet Berke ÇOLAK**, conducted at **Tekirdağ Namık Kemal University, Institute of Natural and Applied Sciences**, under the guidance of **Erkan ÖZHAN**.
+This repository contains the dataset and analysis scripts for the study on the total rate of electrical energy obtained by Turkey from renewable energy sources (excluding hydroelectricity) between 1960 and 2023. The study ([JISTA Research Article](https://dergipark.org.tr/en/pub/jista/issue/90654/1447980))is part of the Master of Science thesis of **Mehmet Berke ÇOLAK**, conducted at **Tekirdağ Namık Kemal University, Institute of Natural and Applied Sciences**, under the guidance of **Erkan ÖZHAN**.
 
 ## Dataset Description
 The dataset includes the following data:
